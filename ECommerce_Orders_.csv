@@ -1,0 +1,16 @@
+Order_ID,Customer,City,Category,Product,Quantity,Unit_Price,Payment_Mode,Rating
+ORD001,Rahul Sharma,Hyderabad,Electronics,Laptop,1,65000,UPI,5
+ORD002,Priya Reddy,Bangalore,Clothing,T-Shirt,2,1200,Card,4
+ORD003,Arjun Kumar,Hyderabad,Electronics,Mobile,1,25000,UPI,5
+ORD004,Sneha Rao,Chennai,Home,Mixer,1,5000,Cash,3
+ORD005,Kiran Das,Pune,Electronics,Headphones,2,3000,Card,4
+ORD006,Rahul Sharma,Hyderabad,Clothing,Jeans,1,2200,UPI,5
+ORD007,Anjali Singh,Mumbai,Electronics,Monitor,1,18000,Card,4
+ORD008,Vikram Patel,Bangalore,Home,Chair,2,7500,UPI,3
+ORD009,Priya Reddy,Bangalore,Clothing,Shoes,1,2500,Card,4
+ORD010,Rohit Verma,Delhi,Electronics,Keyboard,3,1500,Cash,5
+ORD011,Arjun Kumar,Hyderabad,Electronics,Tablet,1,30000,UPI,5
+ORD012,Sneha Rao,Chennai,Clothing,Jacket,1,3500,Card,4
+ORD013,Kiran Das,Pune,Home,Lamp,2,1800,Cash,3
+ORD014,Anjali Singh,Mumbai,Electronics,Smartwatch,1,12000,UPI,5
+ORD015,Vikram Patel,Bangalore,Clothing,T-Shirt,2,1200,Card,4

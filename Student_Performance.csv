@@ -1,0 +1,11 @@
+Student_ID,Name,Course,Attendance,Assignment_Score,Exam_Score
+S001,Rahul,Python,92,85,88
+S002,Priya,Python,85,78,80
+S003,Arjun,JavaScript,78,65,70
+S004,Sneha,Python,95,92,94
+S005,Kiran,SQL,88,88,91
+S006,Anjali,Python,91,90,93
+S007,Vikram,SQL,72,60,58
+S008,Rohit,JavaScript,89,75,78
+S009,Meena,Python,96,95,96
+S010,Pooja,SQL,80,82,85
